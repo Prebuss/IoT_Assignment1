@@ -1,0 +1,11 @@
+Wiring Summary with PWM Control for Backlit display
+
+    VCC to 3.3V
+    GND to GND
+    SCL to D13 (SCK)
+    SDA to D11 (MOSI)
+    RES to D9
+    DC to D8
+    CS to D10
+    BLK to D6 (PWM pin for backlight control)
+
